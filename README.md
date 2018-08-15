@@ -1,2 +1,37 @@
-# alphasbetasomegasUNITE
-Some make small mistakes, we prefer HUGE mistakes. No "wrongs" or "rights." NEVER judgemental. Get in, get dirty, and hopefully you're in for the long run. Either way you've tried, openness is what we strive for; "for the people,by the people" cause without all these contributions, we'd be one boring lifeform, non-symbiotic.  It's a whole lot more interesting grunting and moaning together. Tied up into one BIG knot of opinions, we all create something, well, right or wrong is subjective, and those two words shouldn't exist; si we just say, if it makes you smile, then...,..😉
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/kashlespitz/alphasbetasomegasUNITE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kashlespitz/alphasbetasomegasUNITE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
